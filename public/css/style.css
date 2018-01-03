@@ -2,7 +2,32 @@ body {
     background-image: url("/images/background.jpg");
     padding-top: 70px;
 }
+.jumbotron{
+	background-color: #C25B56;
+	color: #FEF6EB;
+}
 
+.navbar-collapse {
+	background-color: #96C0CE;
+	width: 1800px;
+}
+.navbar-header{
+	background-color: #96C0CE;
+}
+.navbar-default{
+	border-color: #96C0CE;
+}
+.navbar-brand{
+	background-color: #96C0CE; 
+	color: #FEF6EB;
+}
+.navbar.navbar-default.navbar-fixed-top{
+	height: 50px;
+	width: 10px;
+}
+.navbar-default.navbar-nav{
+	color: black;
+}
 .deleteNote {
 	display: inline-block;
 }
